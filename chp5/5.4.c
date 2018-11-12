@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define inch 2.54
 
-int main (void)
+int main ()
 {
     float height;
 
